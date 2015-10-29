@@ -1,0 +1,1 @@
+Alfred workflow to open a folder in a Finder window
